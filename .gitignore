@@ -1,0 +1,25 @@
+# intellij
+.idea
+.idea_modules/
+*.iml
+*.iws
+*.ipr
+
+# eclipse
+.project
+.metadata
+.settings
+.classpath
+
+# svn
+.svn/
+
+# git
+.git/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+*.DS_Store
